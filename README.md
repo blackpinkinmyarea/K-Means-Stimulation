@@ -10,6 +10,7 @@
   + Random clusters (at least 2).
   + Assign color (label) to data points.
   + Change the centroid point position.
+  + Calculate the error (sum of all distances of created points to its centroid point, (the smaller the better))
 - Knowledge Utilized:
   + Proficiency in Python programming, including familiarity with syntax, data structures, and control flow.
   + Understanding of the K-means algorithm, including its iterative process of centroid initialization, data point assignment, and centroid updating.
