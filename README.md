@@ -27,5 +27,5 @@
   + Assign each data point to the nearest centroid.
   + Recalculate centroids based on the mean of data points in each cluster.
   + Repeat until centroids stabilize.
-Through this project, everyone will gain hands-on experience in implementing machine learning algorithms, analyzing data, and visualizing results using Python.
+- Through this project, everyone will gain hands-on experience in implementing machine learning algorithms, analyzing data, and visualizing results using Python.
 
