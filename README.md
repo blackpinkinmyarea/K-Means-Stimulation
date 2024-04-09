@@ -23,9 +23,9 @@
   + Steps 2 and 3 are repeated until convergence, where centroids no longer change significantly.
   + By visualizing the clustering results, we can assess the algorithm's performance and explore how different choices of 'k' impact the clustering outcome.
 - Working Principle:
-+ Initialize 'k' centroids randomly.
-+ Assign each data point to the nearest centroid.
-+ Recalculate centroids based on the mean of data points in each cluster.
-+ Repeat until centroids stabilize.
+  + Initialize 'k' centroids randomly.
+  + Assign each data point to the nearest centroid.
+  + Recalculate centroids based on the mean of data points in each cluster.
+  + Repeat until centroids stabilize.
 Through this project, everyone will gain hands-on experience in implementing machine learning algorithms, analyzing data, and visualizing results using Python.
 
