@@ -1,37 +1,31 @@
-- Title: An Investigation into Convolutional Neural Networks (CNNs) Architecture For Self-Driving Car Model.
-- Objective:
-  + Explore the architecture of Convolutional Neural Networks (CNNs) tailored for self-driving car models.
-  + Analyze the effectiveness of CNN architectures in enhancing autonomous driving systems.
-  + Investigate how different CNN architectures impact the performance and efficiency of self-driving car models.
+- Title: Simulate the K-Means Algorithm On 2-Dimensional Space.
+- Objective: This project aims to develop a Python implementation of the K-means clustering algorithm for educational purposes. It is a practical exercise to enhance proficiency in Python programming and deepen understanding of the K-means algorithm's mechanics.
 - Tools Used:
-  + Python for coding and experimentation.
-  + Deep learning frameworks: PyTorch.
-  + Datasets containing labeled driving data for training and evaluation.
+  + Python for coding and simulation.
+  + Libraries such as Pygame, sklearn, and math.
 - Tasks:
-  + Review Existing CNN Architectures
-  + Examine popular CNN architectures used in computer vision tasks.
-  + Identify architectures suitable for self-driving car models.
-  + Implement CNN Architectures
-  + Develop Python implementations of selected CNN architectures (Regression and Classification).
-  + Customize architectures to suit the requirements of self-driving car models.
-- Training and Evaluation
-  + Train CNN models using driving datasets.
-  + Evaluate the performance of CNN architectures of 2 methods: Regression and Classification.
-  + Performance Comparison
-  + Compare the performance metrics of different CNN architectures: MSELoss for regression, CrossEntropyLoss for classification.
-  + Analyze the strengths and weaknesses of each architecture in the context of self-driving cars.
+  + Create interface and buttons using pygame.
+  + Create functions for buttons.
+  + Create data points on the panel when clicked and create a save-all list.
+  + Random clusters (at least 2).
+  + Assign color (label) to data points.
+  + Change the centroid point position.
+  + Calculate the error (sum of all distances of created points to its centroid point, (the smaller the better)).
 - Knowledge Utilized:
-  + Understanding of deep learning concepts, including CNN architecture design principles.
-  + Proficiency in Python programming and deep learning frameworks.
-  + Familiarity with self-driving car technologies and challenges.
+  + Proficiency in Python programming, including familiarity with syntax, data structures, and control flow.
+  + Understanding of the K-means algorithm, including its iterative process of centroid initialization, data point assignment, and centroid updating.
 - Project Description:
-  + This project aims to investigate Convolutional Neural Network architectures tailored specifically for self-driving car models.
-  + By analyzing and experimenting with different CNN architectures, the project seeks to improve the efficiency and effectiveness of autonomous driving systems.
-- CNN Architecture Investigation:
-  + Review existing CNN architectures and their applications in self-driving car models.
-  + Experiment with custom modifications to CNN architectures to optimize performance for autonomous driving tasks.
-- Outcome:
-  + Gain insights into the role of CNN architectures in self-driving car technology.
-  + Identify optimal CNN architectures for enhancing the capabilities of autonomous driving systems.
-  + Contribute to the advancement of self-driving car technology through innovative CNN architecture designs.
-
+  + This project involves simulating the K-means clustering algorithm using Python.
+  + Although in practice there are few applications of the K-means algorithm, this algorithm we can effectively learn knowledge about matrices and vectors.
+- The K-means algorithm proceeds iteratively:
+  + Initial centroids are randomly selected from the dataset.
+  + Data points are assigned to the nearest centroid.
+  + Centroids are recalculated as the mean of the data points assigned to each cluster.
+  + Steps 2 and 3 are repeated until convergence, where centroids no longer change significantly.
+  + By visualizing the clustering results, we can assess the algorithm's performance and explore how different choices of 'k' impact the clustering outcome.
+- Working Principle:
+  + Initialize 'k' centroids randomly.
+  + Assign each data point to the nearest centroid.
+  + Recalculate centroids based on the mean of data points in each cluster.
+  + Repeat until centroids stabilize.
+- Through this project, everyone will gain hands-on experience in implementing machine learning algorithms, analyzing data, and visualizing results using Python.
