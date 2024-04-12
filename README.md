@@ -1,4 +1,4 @@
-- Title: Simulate the K-Means algorithm on 2-dimensional space.
+- Title: Simulate the K-Means Algorithm On 2-Dimensional Space.
 - Objective: This project aims to develop a Python implementation of the K-means clustering algorithm for educational purposes. It is a practical exercise to enhance proficiency in Python programming and deepen understanding of the K-means algorithm's mechanics.
 - Tools Used:
   + Python for coding and simulation.
