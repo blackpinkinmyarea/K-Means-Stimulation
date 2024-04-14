@@ -16,7 +16,7 @@
   + Understanding of the K-means algorithm, including its iterative process of centroid initialization, data point assignment, and centroid updating.
 - Project Description:
   + This project involves simulating the K-means clustering algorithm using Python.
-  + Although in practice there are few applications of the K-means algorithm, this algorithm we can effectively learn knowledge about matrices and vectors.
+  + Although in practice there are few applications of the K-means algorithm, with this algorithm we can effectively learn knowledge about matrices and vectors.
 - The K-means algorithm proceeds iteratively:
   + Initial centroids are randomly selected from the dataset.
   + Data points are assigned to the nearest centroid.
@@ -28,4 +28,5 @@
   + Assign each data point to the nearest centroid.
   + Recalculate centroids based on the mean of data points in each cluster.
   + Repeat until centroids stabilize.
-- Through this project, everyone will gain hands-on experience in implementing machine learning algorithms, analyzing data, and visualizing results using Python.
+- Descriptive video: https://www.youtube.com/watch?v=GpSqPkBWtko
+- Through this project, everyone will gain hands-on experience implementing machine learning algorithms, analyzing data, and visualizing results using Python.
