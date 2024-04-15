@@ -29,4 +29,5 @@
   + Recalculate centroids based on the mean of data points in each cluster.
   + Repeat until centroids stabilize.
 - Descriptive video: https://www.youtube.com/watch?v=GpSqPkBWtko
+- Reference: https://dunglai.github.io/2017/06/01/k-means/
 - Through this project, everyone will gain hands-on experience implementing machine learning algorithms, analyzing data, and visualizing results using Python.
